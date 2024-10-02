@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(160, 148, 243);
+    color: lavender;
+    font-family: monospace;
+ 
+}
+body {
+    display: block;
+    margin: 100px;
+}
+body {
+    border: 5px;
+    border-style: solid;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    padding: 25px;
+}
+h1 {
+    font-size: 50pt;
+}
